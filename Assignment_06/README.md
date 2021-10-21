@@ -14,3 +14,4 @@ ________________________________________________________________________________
 - Coming to a conclusion for the best model and how it goes with test set.
 _____________________________________________________________________________________________________________________________________________________________________________
 ## CONCLUSION
+After using gridsearch recall score showed changes. Used recall metric as it focuses on positive instances. Accuracy got improved and as ROC area was more than 50%, which means it is a good model
