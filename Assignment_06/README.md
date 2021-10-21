@@ -6,7 +6,7 @@ This dataset is available on kaggle.
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
 _____________________________________________________________________________________________________________________________________________________________________________
 ## STEPS PERFORMED IN THIS ANALYSIS
-Data inspection and checking the missing values.
+Data inspection and checking the missing values. /n
 Splitting data into train and test data.
 Creation of pipeline using logistic regression and standard scalar.
 Running regression model with grid search cross-validation using 10 folds.
