@@ -19,7 +19,7 @@ ________________________________________________________________________________
 - Coming to a conclusion for the best performance.
 _____________________________________________________________________________________________________________________________________________________________________________
 ## CONCLUSION
-We were able to get an accuracy score of around 65%.
+We were able to get an accuracy score of around 67%. Adaboost not helping in improving the performance and Ensemble has good accuracy in comparision to others.
 ______________________________________________________________________________________________________________________________________________________________________________
 ## NEXT STEPS
 Can try it with different columns i.e. to check for some more reasons of flight delay. Or can look out for more data.
