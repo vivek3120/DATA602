@@ -1,7 +1,7 @@
 # PROJECT - Chicago Car Crashes
 _____________________________________________________________________________________________________________________________________________________________________________
 ## DATASET DESCRIPTION
-Using the data from "Chicago Car Crash Dataset" which as more than 569700 records. The dataset as details of date and time of accident occurred, location and cause of accident and soon. This dataset can be available from chicago government website. This datset consist of a lot of missing values.
+Using the data from "Chicago Car Crash Dataset" which as more than 569700 records. The dataset as details of date and time of accident occurred, location and cause of accident and soon. This dataset can be available from chicago government website. This dataset consist of a lot of missing values.
 - https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/data
 
 This analysis contains the visualization in the form of various graphs and Python libraries which are used in this notebook are Numpy, Pandas, Matplotlib, Seaborn.
