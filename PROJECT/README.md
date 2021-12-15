@@ -19,7 +19,6 @@ ________________________________________________________________________________
 - Splitting data into train and test data.
 - Creation of pipeline.
 - Checking the performance of Logistic regression, decision tree, and Random Forest.
-- Using ensemble and checking its performance
 - Checking whether the performance has been improved or not.
 - Coming to a conclusion for the best performance.
 - we'll focus on preprocessing our data.
